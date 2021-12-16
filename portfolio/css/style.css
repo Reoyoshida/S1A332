@@ -211,7 +211,7 @@ li {
   display: inline-block;
   max-width: 180px;
   text-align: center;
-  background-color: #293b6a;
+  background-color: #333;
   font-size: 16px;
   color: #FFF;
   text-decoration: none;
@@ -230,13 +230,13 @@ li {
   max-width: 180px;
   height:50px;
   text-align: center;
-  background-color: #9ec34b;
+  background-color: #b4ffbd;
   font-size: 16px;
   line-height: 52px;
-  color: #FFF;
+  color: #000;
   text-decoration: none;
   font-weight: bold;
-  border: 2px solid #9ec34b;
+  border: 2px solid #293b6a;
   position: relative;
   overflow: hidden;
   z-index: 1;
@@ -250,7 +250,7 @@ li {
   left: 50%;
   background : #FFF;
   opacity: 0;
-  transform: translateX(-50%) translateY(-50%) rotate(45deg);
+  transform: translateX(-50%) translateY(-50%) rotate(90deg);
   transition: .2s;
   z-index: -1;
 }
@@ -320,7 +320,7 @@ li {
   max-width: 180px;
   text-align: center;
   font-size: 16px;
-  color: #FFF;
+  color: #333;
   text-decoration: none;
   font-weight: bold;
   padding: 12px 24px;
@@ -412,7 +412,7 @@ li {
   padding: 10px;
   cursor: pointer;
   text-align: center;
-  background-color: #4c4c4c;
+  background-color: #1ca9e3;
 }
 
 .page-top .material-icons-outlined {
@@ -425,7 +425,7 @@ li {
 ---------------------------------*/
 .footer {
   padding: 30px;
-  background-color: #333;
+  background-color: #81d4fa;
 }
 
 .copyright {

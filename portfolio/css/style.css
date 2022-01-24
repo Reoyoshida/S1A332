@@ -12,6 +12,14 @@ a {
   color: #1ca9e3;
 }
 
+.hoge {
+  max-width: 50%;
+  width: auto;
+  height: auto;
+}
+
+
+
 img {
   max-width: 100%;
   height: auto;
@@ -556,7 +564,7 @@ li {
     display: block;
   }
   .main-visual-img {
-    width: 150px;
+    width: 140px;
     margin: 0 auto;
     margin-bottom: 25px;
   }
@@ -618,4 +626,6 @@ li {
   .article {
     padding: 50px 0;
   }
+
+
 }
